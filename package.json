@@ -12,9 +12,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/globaltoken/node-stratum-pool",
+    "homepage": "https://github.com/VaporumCoin/node-stratum-pool",
     "bugs": {
-        "url": "https://github.com/globaltoken/node-stratum-pool/issues"
+        "url": "https://github.com/VaporumCoin/node-stratum-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -25,10 +25,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/globaltoken/node-stratum-pool.git"
+        "url": "https://github.com/VaporumCoin/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/globaltoken/node-multi-hashing.git",
+        "multi-hashing": "git://github.com/VaporumCoin/node-multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "2.6.2"
